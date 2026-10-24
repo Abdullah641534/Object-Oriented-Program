@@ -1,0 +1,510 @@
+Area:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            float area;
+            float length;
+            String str;
+            Console.Write("Enter Length: ");
+            str = Console.ReadLine();
+            length = float.Parse(str);
+            area = length * length;
+            Console.Write("The Area is: "+ area);
+            Console.ReadKey();
+        }
+    }
+}
+________________________________________________________________
+
+string into int,float,char:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string name;
+            Console.Write("Enter your name: ");
+            name = Console.ReadLine();
+            Console.WriteLine("Your name is: " + name);
+            Console.Write("Enter integer number: ");
+            int number=int.Parse(Console.ReadLine());
+            Console.WriteLine("Square is: " + (number*number));
+            Console.Write("Enter Float number: ");
+            float numb=float.Parse(Console.ReadLine());
+            Console.WriteLine("Square is: " + (numb*numb));
+            Console.Write("Enter Single Char: ");
+            char character=char.Parse(Console.ReadLine());
+            Console.Write("Your Character: " + character);
+            Console.ReadKey();
+        }
+    }
+}
+_________________________________________________________
+
+if-else:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter marks: ");
+            int marks = int.Parse(Console.ReadLine());
+            if (marks > 50)
+            {
+                Console.WriteLine("You are passed");
+            }
+            else
+            {
+                Console.WriteLine("You are failed");
+            }
+
+        }
+    }
+}
+________________________________________________________________
+
+for loop:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            for(int i=1;i<=5;i++)
+            {
+                Console.WriteLine("Welcome Jack");
+            }
+        }
+    }
+}
+_______________________________________________________________
+
+While loop:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num;
+            int sum = 0;
+            Console.Write("Enter number: ");
+            num=int.Parse(Console.ReadLine());
+            while(num!=-1)
+            {
+                sum=sum+num;
+                Console.Write("Enter number: ");
+                num=int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("The total sum is: "+ sum);
+        }
+    }
+}
+_____________________________________________________________
+
+do while loop:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num;
+            int sum = 0;
+            do
+            {
+                Console.Write("Enter number: ");
+                num = int.Parse(Console.ReadLine());
+                sum = sum + num;
+            }
+            while (num != -1);
+            Console.WriteLine("The total sum is: "+ sum);
+        }
+    }
+}
+_____________________________________________________________
+
+array:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] numb = new int[3];
+            for(int i=0;i<3;i++)
+            {
+                Console.Write($"Enter number: ");
+                numb[i] = int.Parse(Console.ReadLine());
+            }
+            int largest=0;
+            for(int i=0;i<3;i++)
+            {
+                if(numb[i] > largest)
+                {
+                    largest = numb[i];
+                }
+            }
+            Console.WriteLine("Largest number: " + largest);
+        }
+    }
+}
+_______________________________________________________________
+
+If-else with Float:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            float height= 6.2F;
+            if(height > 6.0F)
+            {
+                Console.WriteLine("Tall Person");
+            }
+            else if(height< 6.0 && height > 5.8F)
+            {
+                Console.WriteLine("Average height ");
+            }
+            else
+            {
+                Console.WriteLine("Small person");
+            }
+        }
+    }
+}
+______________________________________________________________
+
+If-else with Char:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter grade: ");
+            char grade=char.Parse(Console.ReadLine());
+            if (grade == 'A')
+            {
+                Console.WriteLine("Congrats! You secured an " + grade);
+            }
+            else
+            {
+                Console.WriteLine("Not A");
+            }
+        }
+    }
+}
+______________________________________________________________
+
+If-else with Sring:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string classcode;
+            Console.WriteLine("Enter a classcode for your online class: ");
+            name = Console.ReadLine();
+            if (classcode == "Admin123") ;
+            {
+                Console.WriteLine("Access granted." );
+            }
+            else
+            {
+                Console.WriteLine("Access denied.");
+            }
+        }
+    }
+}
+________________________________________________________________
+
+Loops with int:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           for (int i = 0; i <= 67; i++)
+            {
+                Console.WriteLine("Hello!");
+            }
+        }
+    }
+}
+_______________________________________________________________
+
+Loops with Float:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Input_int
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            float numb = 0.9F;
+            while(numb<= 6.7F)
+            {
+                Console.WriteLine(numb);
+                numb += 0.7F;
+            }
+        }
+    }
+}
+_______________________________________________________________
+
+Loops with Char:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            for (char ch = 'A'; ch <= 'Z'; ch++)
+            {
+                Console.WriteLine(ch);
+            }
+        }
+    }
+}
+______________________________________________________________
+
+Loops with String:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string word = "Hello!";
+            for (int i = 0; i < word.Length; i++)
+            {
+                Console.WriteLine(word[i]);
+            }
+        }
+    }
+}
+______________________________________________________________
+
+Arrays with int:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] numbs = new int { 13, 14, 15, 16 };
+            for (int i = 0; i <= numbs.Length; i++)
+            {
+                Console.WriteLine(numbs[i]);
+            }
+
+        }
+    }
+}
+_____________________________________________________________
+
+Arrays with Float:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            float[] numbs = new float[] { 13.4F, 14.2F, 15.9F, 16.0F };
+            for (int i = 0; i < numbs.Length; i++)
+            {
+                Console.WriteLine(numbs[i]);
+            }
+
+        }
+    }
+}
+____________________________________________________________
+
+Arrays with Char:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char[] consonents = new consonents[21];
+            for (int i = 0; i <= consonets.Length; i++)
+
+            {
+                Console.WriteLine("Enter consonent for index" + i + ":");
+                consonents[i] = char.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i <= consonents.Length; i++)
+            {
+                Console.WriteLine("Consonent at index" + i + "is" + consonents[i]);
+            }
+        }
+    }
+}
+_____________________________________________________________
+
+Arrays for String:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+    {
+        string[] names = new string[] { "Ali", "Sara" };
+        for (int i = 0; i < names.Length; i++)
+        {
+            Console.WriteLine("String Array element: " + names[i]);
+        }
+    }
+}
+_______________________________________________________________
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace task.cs
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] numb = new int[3];
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write($"Enter number: ");
+                numb[i] = int.Parse(Console.ReadLine());
+            }
+            int smallest = numb[0];
+            for (int i = 0; i < 3; i++)
+            {
+                if (numb[i] < smallest)
+                {
+                    smallest = numb[i];
+                }
+            }
+            Console.WriteLine("Largest number: " + smallest);
+
+        }
+    }
+}
+ 

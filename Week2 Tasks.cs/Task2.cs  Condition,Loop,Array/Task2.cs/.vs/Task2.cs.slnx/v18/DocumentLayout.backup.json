@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week1\\Task2.cs  Condition,Loop,Array\\Task2.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F364011F-B552-4FE5-BC00-8BE6EBA6A271}|Task2.cs\\Task2.cs.csproj|d:\\abdullah sajjad\\semester 2\\oop\\week1\\task2.cs  condition,loop,array\\task2.cs\\task2.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F364011F-B552-4FE5-BC00-8BE6EBA6A271}|Task2.cs\\Task2.cs.csproj|solutionrelative:task2.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week1\\Task2.cs  Condition,Loop,Array\\Task2.cs\\Task2.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Task2.cs\\Program.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week1\\Task2.cs  Condition,Loop,Array\\Task2.cs\\Task2.cs\\Program.cs",
+              "RelativeToolTip": "Task2.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:07:57.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

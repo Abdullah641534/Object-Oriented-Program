@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Student_Record\Student_Record\bin\Debug\Student_Record.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Student_Record\Student_Record\bin\Debug\Student_Record.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Student_Record\Student_Record\bin\Debug\Student_Record.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Student_Record\Student_Record\obj\Debug\Student_Record.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Student_Record\Student_Record\obj\Debug\Student_Record.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Student_Record\Student_Record\obj\Debug\Student_Record.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Student_Record\Student_Record\obj\Debug\Student_Record.pdb

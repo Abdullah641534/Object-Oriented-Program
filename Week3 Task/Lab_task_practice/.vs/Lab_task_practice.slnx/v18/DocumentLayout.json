@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week3 Task\\Lab_task_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F01769B-7991-48CD-A9E5-54854B293E1D}|Lab_task_practice\\Lab_task_practice.csproj|d:\\abdullah sajjad\\semester 2\\oop\\week3 task\\lab_task_practice\\lab_task_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F01769B-7991-48CD-A9E5-54854B293E1D}|Lab_task_practice\\Lab_task_practice.csproj|solutionrelative:lab_task_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week3 Task\\Lab_task_practice\\Lab_task_practice\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_task_practice\\Program.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week3 Task\\Lab_task_practice\\Lab_task_practice\\Program.cs",
+              "RelativeToolTip": "Lab_task_practice\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T08:13:36.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

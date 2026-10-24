@@ -1,0 +1,14 @@
+D:\Abdullah sajjad\Semester 2\OOP\CLASSES\CLASSES\bin\Debug\CLASSES.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\CLASSES\CLASSES\bin\Debug\CLASSES.exe
+D:\Abdullah sajjad\Semester 2\OOP\CLASSES\CLASSES\bin\Debug\CLASSES.pdb
+D:\Abdullah sajjad\Semester 2\OOP\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\CLASSES\CLASSES\obj\Debug\CLASSES.exe
+D:\Abdullah sajjad\Semester 2\OOP\CLASSES\CLASSES\obj\Debug\CLASSES.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\CLASSES\CLASSES\bin\Debug\CLASSES.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\CLASSES\CLASSES\bin\Debug\CLASSES.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\CLASSES\CLASSES\bin\Debug\CLASSES.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\CLASSES\CLASSES\obj\Debug\CLASSES.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\CLASSES\CLASSES\obj\Debug\CLASSES.pdb

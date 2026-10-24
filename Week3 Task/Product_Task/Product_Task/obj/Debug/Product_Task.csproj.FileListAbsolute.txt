@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Product_Task\Product_Task\bin\Debug\Product_Task.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Product_Task\Product_Task\bin\Debug\Product_Task.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Product_Task\Product_Task\bin\Debug\Product_Task.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Product_Task\Product_Task\obj\Debug\Product_Task.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Product_Task\Product_Task\obj\Debug\Product_Task.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Product_Task\Product_Task\obj\Debug\Product_Task.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Product_Task\Product_Task\obj\Debug\Product_Task.pdb

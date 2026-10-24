@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task2.cs  Condition,Loop,Array\Task2.cs\Task2.cs\bin\Debug\Task2.cs.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task2.cs  Condition,Loop,Array\Task2.cs\Task2.cs\bin\Debug\Task2.cs.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task2.cs  Condition,Loop,Array\Task2.cs\Task2.cs\bin\Debug\Task2.cs.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task2.cs  Condition,Loop,Array\Task2.cs\Task2.cs\obj\Debug\Task2.cs.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task2.cs  Condition,Loop,Array\Task2.cs\Task2.cs\obj\Debug\Task2.cs.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task2.cs  Condition,Loop,Array\Task2.cs\Task2.cs\obj\Debug\Task2.cs.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task2.cs  Condition,Loop,Array\Task2.cs\Task2.cs\obj\Debug\Task2.cs.pdb

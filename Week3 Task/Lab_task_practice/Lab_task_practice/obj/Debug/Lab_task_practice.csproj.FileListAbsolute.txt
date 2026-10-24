@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Lab_task_practice\Lab_task_practice\bin\Debug\Lab_task_practice.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Lab_task_practice\Lab_task_practice\bin\Debug\Lab_task_practice.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Lab_task_practice\Lab_task_practice\bin\Debug\Lab_task_practice.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Lab_task_practice\Lab_task_practice\obj\Debug\Lab_task_practice.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Lab_task_practice\Lab_task_practice\obj\Debug\Lab_task_practice.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Lab_task_practice\Lab_task_practice\obj\Debug\Lab_task_practice.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\Lab_task_practice\Lab_task_practice\obj\Debug\Lab_task_practice.pdb

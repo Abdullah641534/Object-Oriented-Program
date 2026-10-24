@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Practice_layers\Practice_layers\bin\Debug\Practice_layers.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Practice_layers\Practice_layers\bin\Debug\Practice_layers.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Practice_layers\Practice_layers\bin\Debug\Practice_layers.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Practice_layers\Practice_layers\obj\Debug\Practice_layers.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Practice_layers\Practice_layers\obj\Debug\Practice_layers.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Practice_layers\Practice_layers\obj\Debug\Practice_layers.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Practice_layers\Practice_layers\obj\Debug\Practice_layers.pdb

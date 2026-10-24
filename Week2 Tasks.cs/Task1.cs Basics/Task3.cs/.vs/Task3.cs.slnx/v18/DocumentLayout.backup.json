@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week1\\Task1.cs Basics\\Task3.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0592381-F0EC-47C0-85E8-25920E236E57}|Task3.cs\\Task3.cs.csproj|d:\\abdullah sajjad\\semester 2\\oop\\week1\\task1.cs basics\\task3.cs\\task3.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0592381-F0EC-47C0-85E8-25920E236E57}|Task3.cs\\Task3.cs.csproj|solutionrelative:task3.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week1\\Task1.cs Basics\\Task3.cs\\Task3.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Task3.cs\\Program.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week1\\Task1.cs Basics\\Task3.cs\\Task3.cs\\Program.cs",
+              "RelativeToolTip": "Task3.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:39:33.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week3 Task\\CLASSES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BEF439-5F7B-431B-83C3-0B8A10C82FF0}|CLASSES\\CLASSES.csproj|d:\\abdullah sajjad\\semester 2\\oop\\week3 task\\classes\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BEF439-5F7B-431B-83C3-0B8A10C82FF0}|CLASSES\\CLASSES.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week3 Task\\CLASSES\\CLASSES\\Program.cs",
+              "RelativeDocumentMoniker": "CLASSES\\Program.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week3 Task\\CLASSES\\CLASSES\\Program.cs",
+              "RelativeToolTip": "CLASSES\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:02:47.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

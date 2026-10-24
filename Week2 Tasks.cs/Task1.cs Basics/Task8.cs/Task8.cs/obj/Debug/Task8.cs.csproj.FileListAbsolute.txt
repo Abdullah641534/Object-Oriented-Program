@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task1.cs Basics\Task8.cs\Task8.cs\bin\Debug\Task8.cs.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task1.cs Basics\Task8.cs\Task8.cs\bin\Debug\Task8.cs.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task1.cs Basics\Task8.cs\Task8.cs\bin\Debug\Task8.cs.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task1.cs Basics\Task8.cs\Task8.cs\obj\Debug\Task8.cs.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task1.cs Basics\Task8.cs\Task8.cs\obj\Debug\Task8.cs.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task1.cs Basics\Task8.cs\Task8.cs\obj\Debug\Task8.cs.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week1\Task1.cs Basics\Task8.cs\Task8.cs\obj\Debug\Task8.cs.pdb

@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\UAMS\UAMS\bin\Debug\UAMS.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\UAMS\UAMS\bin\Debug\UAMS.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\UAMS\UAMS\bin\Debug\UAMS.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\UAMS\UAMS\obj\Debug\UAMS.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week3 Task\UAMS\UAMS\obj\Debug\UAMS.pdb
