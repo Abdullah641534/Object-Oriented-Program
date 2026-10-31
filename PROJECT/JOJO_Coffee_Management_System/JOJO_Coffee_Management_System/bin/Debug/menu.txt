@@ -1,0 +1,8 @@
+Ristretto
+1000
+Lungo
+200
+Americano
+700
+Cappuccino
+100

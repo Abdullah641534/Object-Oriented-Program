@@ -1,0 +1,7 @@
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Product_Management_with_Layers\Product_Management_with_Layers\obj\Debug\Product_Management_with_Layers.csproj.AssemblyReference.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Product_Management_with_Layers\Product_Management_with_Layers\obj\Debug\Product_Management_with_Layers.csproj.CoreCompileInputs.cache
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Product_Management_with_Layers\Product_Management_with_Layers\bin\Debug\Product_Management_with_Layers.exe.config
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Product_Management_with_Layers\Product_Management_with_Layers\bin\Debug\Product_Management_with_Layers.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Product_Management_with_Layers\Product_Management_with_Layers\bin\Debug\Product_Management_with_Layers.pdb
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Product_Management_with_Layers\Product_Management_with_Layers\obj\Debug\Product_Management_with_Layers.exe
+D:\Abdullah sajjad\Semester 2\OOP\Week4 task\Product_Management_with_Layers\Product_Management_with_Layers\obj\Debug\Product_Management_with_Layers.pdb

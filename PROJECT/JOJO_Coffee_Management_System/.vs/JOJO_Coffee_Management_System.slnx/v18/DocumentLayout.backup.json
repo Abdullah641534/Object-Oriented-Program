@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|d:\\abdullah sajjad\\semester 2\\oop\\project\\jojo_coffee_management_system\\jojo_coffee_management_system\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\user\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\user\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\menu\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\menu\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\bill\\billui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\bill\\billui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\bill\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\bill\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\bill\\billrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\bill\\billrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\bill\\billmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\bill\\billmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\admin\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\admin\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\menu\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\menu\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\menu\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\menu\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\jojo_coffee_management_system\\menu\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D476F-092E-4735-9FC5-5A02C1F4E70A}|JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System.csproj|solutionrelative:jojo_coffee_management_system\\menu\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminUI.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Admin\\AdminUI.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminUI.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Admin\\AdminUI.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:12:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Program.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Program.cs*",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:49:08.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillService.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Bill\\BillService.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillService.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Bill\\BillService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:02:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuUI.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuUI.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Menu\\MenuUI.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuUI.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Menu\\MenuUI.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T18:50:09.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserUI.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\User\\UserUI.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserUI.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\User\\UserUI.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:06:28.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillUI.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillUI.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Bill\\BillUI.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillUI.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Bill\\BillUI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:02:22.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillModel.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillModel.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Bill\\BillModel.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillModel.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Bill\\BillModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:01:48.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillRepo.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillRepo.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Bill\\BillRepo.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Bill\\BillRepo.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Bill\\BillRepo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:02:03.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminService.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Admin\\AdminService.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminService.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Admin\\AdminService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:12:19.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminModel.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Admin\\AdminModel.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminModel.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Admin\\AdminModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:11:57.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Admin\\AdminRepo.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Admin\\AdminRepo.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Admin\\AdminRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:12:08.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\User\\UserService.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserService.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:06:20.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserRepo.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\User\\UserRepo.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserRepo.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\User\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:06:11.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserModel.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\User\\UserModel.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\User\\UserModel.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\User\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:06:00.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuService.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Menu\\MenuService.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuService.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Menu\\MenuService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T18:50:02.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuRepo.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuRepo.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Menu\\MenuRepo.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuRepo.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Menu\\MenuRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T18:49:52.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuModel.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuModel.cs",
+              "RelativeDocumentMoniker": "JOJO_Coffee_Management_System\\Menu\\MenuModel.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\PROJECT\\JOJO_Coffee_Management_System\\JOJO_Coffee_Management_System\\Menu\\MenuModel.cs",
+              "RelativeToolTip": "JOJO_Coffee_Management_System\\Menu\\MenuModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T18:49:43.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|d:\\abdullah sajjad\\semester 2\\oop\\week4 task\\product_management_with_layers\\product_management_with_layers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\purchase\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\purchase\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\purchase\\purchaceui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\purchase\\purchaceui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\purchase\\purchaserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\purchase\\purchaserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\purchase\\purchacemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\purchase\\purchacemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\customer\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\customer\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\product_management_with_layers\\customer\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B65AFE7-C15B-4B58-9B6C-4BE9379EC34C}|Product_Management_with_Layers\\Product_Management_with_Layers.csproj|solutionrelative:product_management_with_layers\\customer\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaceModel.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaceModel.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Purchase\\PurchaceModel.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaceModel.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Purchase\\PurchaceModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:45:31.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchaceUI.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaceUI.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Purchase\\PurchaceUI.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaceUI.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Purchase\\PurchaceUI.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:59:41.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Purchase\\PurchaseService.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaseService.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Purchase\\PurchaseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:45:53.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseRepo.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaseRepo.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Purchase\\PurchaseRepo.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Purchase\\PurchaseRepo.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Purchase\\PurchaseRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:45:41.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Program.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Program.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Program.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:14:59.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductUI.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Product\\ProductUI.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductUI.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Product\\ProductUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:56:33.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Product\\ProductService.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductService.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Product\\ProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:17:58.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Product\\ProductRepo.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductRepo.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Product\\ProductRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:17:43.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Product\\ProductModel.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Product\\ProductModel.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Product\\ProductModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:17:29.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Customer\\CustomerUI.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerUI.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Customer\\CustomerUI.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvwoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:58:07.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Customer\\CustomerService.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerService.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Customer\\CustomerService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:42:26.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Customer\\CustomerRepo.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerRepo.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Customer\\CustomerRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:42:11.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "Product_Management_with_Layers\\Customer\\CustomerModel.cs",
+              "ToolTip": "D:\\Abdullah sajjad\\Semester 2\\OOP\\Week4 task\\Product_Management_with_Layers\\Product_Management_with_Layers\\Customer\\CustomerModel.cs",
+              "RelativeToolTip": "Product_Management_with_Layers\\Customer\\CustomerModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:42:00.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
